@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunnuminati" target="blank"><img src="https://img.shields.io/twitter/follow/kunnuminati?logo=twitter&style=for-the-badge" alt="kunnuminati" /></a> </p>
 
-- 🔭 I’m currently working on **Work Development and Machine Learning**
+- 🔭 I’m currently working on **Web Development and Machine Learning**
 
 - 🌱 I’m currently learning **React, Python, JavaScript, etc.**
 
