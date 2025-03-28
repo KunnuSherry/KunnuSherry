@@ -105,9 +105,19 @@ README.MD
 
 <br/>
 
-<!-- Spotify Now Playing -->
+<!-- YouTube Music Section -->
 <div align="center">
-  <a href="https://open.spotify.com/user/31c6blprmthuki37tabjfzwg4ypm">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31c6blprmthuki37tabjfzwg4ypm&cover_image=true&theme=default" />
+  <h3>🎵 Check out my YouTube Channel!</h3>
+  <a href="https://youtube.com/@kunnuminati" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCwPtXPmwUbL-cYILTXyGN4A?style=for-the-badge&logo=youtube&logoColor=white&label=SUBSCRIBERS&color=FF0000" alt="YouTube Subscribers"/>
+  </a>
+  <br/>
+  <a href="https://youtube.com/@kunnuminati" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/views/UCwPtXPmwUbL-cYILTXyGN4A?style=for-the-badge&logo=youtube&logoColor=white&label=CHANNEL+VIEWS&color=FF0000" alt="YouTube Channel Views"/>
+  </a>
+  <br/><br/>
+  <a href="https://youtube.com/@kunnuminati" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="80" width="100" />
   </a>
 </div>
+
