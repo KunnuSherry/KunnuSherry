@@ -99,7 +99,7 @@ README.MD
 <br/>
 <div align="center">
   <a href="https://github.com/KunnuSherry/KunnuSherry">
-    <img src="https://raw.githubusercontent.com/KunnuSherry/KunnuSherry/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+    <img src="https://github.com/KunnuSherry/KunnuSherry/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
   </a>
 </div>
 
