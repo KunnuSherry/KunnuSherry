@@ -108,7 +108,8 @@ README.MD
 <!-- Spotify Now Playing -->
 <div align="center">
   <a href="https://open.spotify.com/user/31c6blprmthuki37tabjfzwg4ypm">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31c6blprmthuki37tabjfzwg4ypm&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="450"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6blprmthuki37tabjfzwg4ypm&count=1" alt="Spotify Now Playing" width="400"/>
   </a>
 </div>
+
 
