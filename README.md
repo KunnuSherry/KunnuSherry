@@ -1,42 +1,113 @@
-<h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+README.MD
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kunal+Sharma!;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunnusherry&label=Profile%20views&color=0e75b6&style=flat" alt="kunnusherry" /> </p>
+<h3 align="center">A passionate Computer Science Student from India 🇮🇳</h3>
 
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=KunnuSherry&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KunnuSherry?style=for-the-badge&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/KunnuSherry?style=for-the-badge&color=blueviolet" alt="Stars" />
 
+</div>
 
-<p align="left"> <a href="https://twitter.com/kunnuminati" target="blank"><img src="https://img.shields.io/twitter/follow/kunnuminati?logo=twitter&style=for-the-badge" alt="kunnuminati" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **Web Development and Machine Learning**
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450" />
+  
+</div>
 
-- 🌱 I’m currently learning **React, Python, JavaScript, etc.**
+<br/>
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+<div align="center">
+  
+  🔭 I'm currently working on **Web Development and Machine Learning**
+  
+  🌱 I'm currently learning **React, Python, JavaScript, etc.**
+  
+  👯 I'm looking to collaborate on **Web Development Projects**
+  
+  👨‍💻 All of my projects are available at **[My GitHub](https://github.com/KunnuSherry)**
+  
+  📫 How to reach me: **kunalsharma7003@gmail.com**
+  
+  ⚡ Fun fact: **I do have a YouTube channel**
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KunnuSherry](https://github.com/KunnuSherry)
+<div align="center">
+  <a href="https://github.com/KunnuSherry" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:kunalsharma7003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@kunnuminati" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 📫 How to reach me **kunalsharma7003@gmail.com**
+<hr/>
 
-- ⚡ Fun fact **I do have a Youtube channel**
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,java" /><br>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kunnuminati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunnuminati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunal sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/kunal human" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal human" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kunnusherry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunnusherry" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kunal sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal sharma" height="30" width="40" /></a>
-<a href="https://discord.gg/TEfdAWFT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TEfdAWFT" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/KunnuSherry/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="TEfdAWFT" height="30" width="40" /></a>
+<hr/>
 
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KunnuSherry&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KunnuSherry&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KunnuSherry&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunnusherry&show_icons=true&locale=en&layout=compact" alt="kunnusherry" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunnusherry&show_icons=true&locale=en" alt="kunnusherry" /></p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;I'm+always+down+to+collaborate+:)">
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunnusherry&" alt="kunnusherry" /></p>
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunnuSherry&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<br/>
+<div align="center">
+  <a href="https://github.com/KunnuSherry/KunnuSherry">
+    <img src="https://raw.githubusercontent.com/KunnuSherry/KunnuSherry/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </a>
+</div>
+
+<br/>
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  <a href="https://open.spotify.com/user/KunnuSherry">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=1" alt="Spotify Now Playing" width="400"/>
+  </a>
+</div>
