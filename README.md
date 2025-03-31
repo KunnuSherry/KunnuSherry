@@ -17,7 +17,7 @@ README.MD
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemg1anJ4Z3EzNzl6YzNpYWZjanpkYjhyb21vMWtzZDA2OGFzMzQzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coding Animation" width="450" />
   
 </div>
 
